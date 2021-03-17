@@ -3,4 +3,4 @@ This repository represent a small python module  to plot the bicycle trauma data
 
 ## The link to my package
 
-https://pypi.org/project/biketrauma/0.0.1/
+https://pypi.org/project/biketrauma-ng/0.0.1/
